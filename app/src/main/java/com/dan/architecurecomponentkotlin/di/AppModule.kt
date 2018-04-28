@@ -9,8 +9,8 @@ import com.dan.architecurecomponentkotlin.db.ImageDao
 import com.dan.architecurecomponentkotlin.db.ImageDb
 import com.dan.architecurecomponentkotlin.repository.ImageRepository
 import com.dan.architecurecomponentkotlin.repository.ImageRepositoryImpl
-import com.dan.architecurecomponentkotlin.repository.mapper.ImageMapper
-import com.dan.architecurecomponentkotlin.repository.mapper.ImageMapperImpl
+import com.dan.architecurecomponentkotlin.mapper.ImageMapper
+import com.dan.architecurecomponentkotlin.mapper.ImageMapperImpl
 import com.dan.architecurecomponentkotlin.util.rx.AppSchedulerProvider
 import com.dan.architecurecomponentkotlin.util.rx.SchedulerProvider
 import dagger.Module

@@ -1,4 +1,4 @@
-package com.dan.architecurecomponentkotlin.repository.mapper
+package com.dan.architecurecomponentkotlin.mapper
 
 import com.dan.architecurecomponentkotlin.vo.Image
 import com.dan.architecurecomponentkotlin.vo.ImageModel
